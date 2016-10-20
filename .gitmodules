@@ -2,3 +2,9 @@
 	path = Packages/ChineseLocalization
 	url = https://github.com/rexdf/ChineseLocalization.git
 	branch = st3
+[submodule "Packages/Sublime-GenericConfig"]
+	path = Packages/Sublime-GenericConfig
+	url = https://github.com/skozlovf/Sublime-GenericConfig.git
+[submodule "Packages/Flake8Lint"]
+	path = Packages/Flake8Lint
+	url = https://github.com/dreadatour/Flake8Lint.git
