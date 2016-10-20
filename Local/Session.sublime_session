@@ -4,479 +4,12 @@
 		"/D/Users/huhai/Codes/bbtv5"
 	],
 	"last_version": 3126,
-	"last_window_id": 18,
+	"last_window_id": 25,
 	"log_indexing": false,
 	"settings":
 	{
 		"new_window_height": 480.0,
 		"new_window_settings":
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 58.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					],
-					[
-						"Package",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"package contro",
-						"Package Control: Install Package"
-					],
-					[
-						"config",
-						"Code Folding: Fold Tag Attributes"
-					],
-					[
-						"generic",
-						"Package Control: Create Binary Package File"
-					],
-					[
-						"Package Control",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 472.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/ops_maintenance/views/users.py",
-				"/D/Program Files/Sublime Text 32/projects/oecloud.sublime-project",
-				"/D/Users/huhai/Desktop/Sublime Text 3bak/Packages/User/Preferences.sublime-settings",
-				"/D/Users/huhai/Desktop/Sublime Text 3bak/Packages/User/Default (Windows).sublime-keymap",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/oeauth/views.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/oeauth/models.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/utils/sms.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/logs/oecloud-horizon.log",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/alabaster-0.7.9.dist-info/DESCRIPTION.rst",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/oecloud_dashboard/settings.py",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/core/mail/__init__.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/local_settings.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/local_settings.sample.py",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/core/mail/backends/smtp.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/ops_maintenance/models.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/system_app/views.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/system_app/models.py",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/conf/global_settings.py",
-				"/D/Users/huhai/Codes/bbtv5/deploy/nginx/app.conf",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/api/index2.rst",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/core/mail/backends/console.py",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/contrib/auth/models.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/notifications/models.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/urls/user/commons/urls.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/commons/urls.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/templates/verify_code.html",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/oeauth/utils.py",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/core/mail/message.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/notifications/apps.py",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/contrib/admin/forms.py",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/contrib/auth/forms.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/oeauth/forms.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/alarm_app/models.py",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/contrib/auth/base_user.py",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/contrib/contenttypes/models.py",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/db/models/fields/related_descriptors.py",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/db/models/fields/related.py",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/db/models/fields/reverse_related.py",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/contrib/contenttypes/fields.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/utils/__init__.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/ops_maintenance/views/projects.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/dashboard_app/views.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/utils/middleware.py",
-				"/D/Program Files/nginx-1.7.10/conf/vhost/oecloud-dev.conf",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/api/neutron.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/api/base.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/cinder_app/models.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/urls/user/urls.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/utils/strutils.py",
-				"/D/Users/huhai/envs/sas/Lib/site-packages/django/db/models/base.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/ops_opcenter/views/administrators.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/notifications/views.py",
-				"/D/Users/huhai/Codes/oecloud-horizon/pysrc/oecloud_backend/oecloud_dashboard/urls.py",
-				"/D/Users/huhai/Codes/banbantong-dev/websocket_server/dispatchers/edu_unit.py",
-				"/D/Users/huhai/Codes/banbantong-dev/settings.ini",
-				"/D/Users/huhai/envs/b/Lib/site-packages/apscheduler/jobstores/base.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/views/system/node.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/db/models.py",
-				"/D/Users/huhai/Codes/banbantong-dev/websocket_server/instructions/client.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/forms/newterm.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/views/system/class_mac.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/commands/management/commands/update_current_statistic_items.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/commands/management/commands/create_statistic_items.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/forms/class_mac.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/urls.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/utils/str_util.py",
-				"/D/Users/huhai/Codes/banbantong-dev/conf/bbt-deploy.md",
-				"/D/Users/huhai/Codes/banbantong-dev/conf/install.txt",
-				"/D/Users/huhai/Codes/banbantong-dev/conf/supervisor/conf.d/banbantong.conf",
-				"/D/Users/huhai/Codes/banbantong-dev/conf/apache2/sites-available/banbantong.conf",
-				"/D/Users/huhai/Codes/banbantong-dev/websocket_server/dispatchers/sync.py",
-				"/D/Users/huhai/Codes/banbantong-dev/activation/serverside.py",
-				"/D/Users/huhai/envs/b/Lib/site-packages/apscheduler/schedulers/base.py",
-				"/D/Users/huhai/envs/b/Lib/site-packages/apscheduler/schedulers/blocking.py",
-				"/D/Users/huhai/envs/b/Lib/site-packages/apscheduler/schedulers/background.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/utils/task_scheduler.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/tasks/teach_monitor.py",
-				"/D/Users/huhai/Codes/missuor/utils/jobs.py",
-				"/D/Users/huhai/envs/b/Lib/site-packages/sqlalchemy/sql/functions.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/utils/file_utils.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/settings_privileges.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/views/asset/asset_repair.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/tasks/__init__.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/views/list/api.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/utils/sms.py",
-				"/D/Users/huhai/Codes/banbantong-dev/top/api/rest/AlibabaAliqinFcSmsNumSendRequest.py",
-				"/D/Users/huhai/Codes/banbantong-dev/top/api/base.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/tasks/sms_auto_report.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/tasks/auto_kill_subprocess.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/settings.py",
-				"/D/Users/huhai/Codes/banbantong-dev/top/api/__init__.py",
-				"/C/Users/huhai/AppData/Roaming/Sublime Text 3/Packages/User/Flake8Lint.sublime-settings",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/utils/sms/base.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/utils/sms/top.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/utils/smslib.py",
-				"/D/Users/huhai/Codes/banbantong-dev/top/__init__.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/utils/sms/__init__.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/forms/asset.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/views/global/global_overview.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/views/asset/assetprovider.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/views/asset/asset_type.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/views/system/install.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/tasks/term_lesson_resource.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/forms/node.py",
-				"/D/Users/huhai/Codes/banbantong-dev/cameraroom/models.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/db/migrations/__init__.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/db/migrations/0001_initial.py",
-				"/C/Python27/Scripts/pp.bat",
-				"/D/Users/huhai/Codes/banbantong-dev/Requirements.txt",
-				"/D/Users/huhai/Codes/banbantong-dev/south/management/commands/schemamigration.py",
-				"/C/Users/huhai/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/db/migrations/0071_auto__add_assetprovider__add_field_node_location__add_field_node_latit.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/db/migrations/0072_update_assetinheritfrom.py",
-				"/D/Users/huhai/Codes/missuor/app.conf",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/views/asset/asset.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/views/api/interfaces/term_lesson_resource.py",
-				"/D/Users/huhai/Desktop/sign.html",
-				"/D/Users/huhai/envs/b/Lib/site-packages/django/forms/models.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/utils/__init__.py",
-				"/D/Users/huhai/Codes/banbantong-dev/websocket_server/dispatchers/localserver.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/utils/cloud_service.py",
-				"/D/Users/huhai/envs/b/Lib/site-packages/django/forms/fields.py",
-				"/D/Users/huhai/Desktop/settings.py",
-				"/D/Users/huhai/Downloads/超级盗贼.txt",
-				"/D/Users/huhai/Downloads/史上第一混乱[全本文字精校版].txt",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/views/api/interfaces/computerclass_client.py",
-				"/D/Users/huhai/Codes/banbantong-dev/BanBanTong/forms/api/lesson.py",
-				"//10.0.0.11/workhome/aaa - 副本.txt"
-			],
-			"find":
-			{
-				"height": 27.0
-			},
-			"find_in_files":
-			{
-				"height": 96.0,
-				"where_history":
-				[
-					"<project>,*.py",
-					"<project>,*.rst",
-					"<project>,*.py",
-					"<project>",
-					"D:\\Users\\huhai\\Codes\\banbantong-dev,-*.json,-*.sql,-*.log,+*.py",
-					"D:\\Users\\huhai\\Codes\\banbantong-dev,-*.json,-*.sql,-*.log",
-					"D:\\Users\\huhai\\Codes\\banbantong-dev,-*.json,-*.sql,-*.log,+*.py",
-					"D:\\Users\\huhai\\Codes\\banbantong-dev,-*.json,-*.sql,-*.log",
-					"D:\\Users\\huhai\\Codes\\banbantong-dev,-*.json,-*.sql",
-					"D:\\Users\\huhai\\Codes\\banbantong-dev,-*.json",
-					"D:\\Users\\huhai\\Codes\\banbantong-dev",
-					"*.js,D:\\Users\\huhai\\Codes\\banbantong-dev",
-					"*.js",
-					"*.py"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": true,
-				"find_history":
-				[
-					"user_delete",
-					"note",
-					"sign",
-					"local_settings.",
-					"settings",
-					"d",
-					"VERIFY_CODE_EXPIRE_TIME",
-					"VERIFY_CODE_EXPIRE_SECONDS",
-					"request.user",
-					"EMAIL",
-					"EMAIL_HOST",
-					"EMAIL",
-					"EMAIL_BACKEND",
-					"send",
-					"mail",
-					"NotificationUserManager",
-					"dashboard/resources/admin",
-					"10.1.33.231",
-					"DEFAULT_PROJECT_SETTINGS",
-					"usage",
-					"get_usage",
-					"get_usage_admin",
-					"resources/admin\n",
-					"FloatingIpManager",
-					"= property(",
-					"NotFound",
-					"ops_opcenter.forms",
-					"administrator",
-					"sms_param",
-					"term = models.ForeignKey",
-					"room_name",
-					"status",
-					"%s年级",
-					"年级",
-					"Node",
-					"get_",
-					"used_quota",
-					"{\"category\": \"sync\", \"operation\": \"login\", \"data\": {\"parent\": {\"name\": \"三岔乡\", \"group_type\": \"town\", \"uuid\": \"15BF43F9-0D32-59A4-A1F3-03389955F018\"}, \"db_version\": 100, \"name\": \"茅坝小学\", \"key\": \"BBD78BC04AC0A5AF\", \"server_type\": \"school\", \"synclog_max_id\": 32918, \"used_quota\": 4, \"uuid\": \"B41D2F1E-B89B-11E3-A99D-40618621D367\"}}\nused_quota",
-					"classes/available-choices",
-					"Ing",
-					"term_type",
-					"limi",
-					"oseasy",
-					"limit",
-					"_real_add_job",
-					"scheduled_job",
-					"_create_teacher_sequence",
-					"GIS",
-					"api/report_mac",
-					"信息不完整\n信息不完整\n信息不完整",
-					"list/term/grade-class",
-					"AlibabaAliqinFcSmsNumSendRequest",
-					"exceptions",
-					"loger",
-					"log",
-					"exceptions",
-					"AlibabaAliqinFcSmsNumSendRequest",
-					"asset",
-					"unique_together",
-					"global_statistic_computerclass",
-					"get_names",
-					"_create_default_inheritfrom",
-					"_create_teacher_sequence",
-					"DoesNotExist",
-					"school=school, inherit_from=default_inherit_from",
-					"#(\\w)",
-					"#\\w",
-					"AssetInheritFrom",
-					"not twserver in sys.argv",
-					"provi",
-					"asset-repair",
-					"get_timeout",
-					"_N",
-					"_NOT_UPDATE_ON_CHANGE",
-					"is_deleted",
-					"oseasy",
-					"_create_default_newlessontype",
-					"#(\\w)",
-					"上课失败！",
-					"用户名或密码错误",
-					"TeacherLoginLog",
-					"log::lt",
-					"print",
-					"\"\"\"\\n[ ]*(\\w+)\\n[ ]*\"\"\"",
-					"/system/lesson_teacher/add/",
-					"CameraRoomType",
-					"/system/lesson_teacher/list/",
-					"api/teacher/login",
-					"login",
-					"))\n",
-					"list_current",
-					"password_confirmation",
-					"group_get_children",
-					"get-group",
-					"verify",
-					"#\\w",
-					"_truncate_tables",
-					"list_current",
-					"lesson_teacher",
-					"DoesNotExist",
-					"DoesNot",
-					"login",
-					"client_utils",
-					"login",
-					"update_time_used",
-					"set_room_online_cache",
-					"set_cameraroom_active_time",
-					"ctrl+s",
-					"#i",
-					"#(\\w)",
-					",(\\w)",
-					"__loop",
-					"(\\w) ,",
-					",(\\w+)",
-					"#(\\w)",
-					"(\"\"\"|''')\\n[ ]*(([ ]{4}\\w+.*\\n[ ]*)*)(\"\"\"|''')",
-					"(\"\"\"|''')\\n[ ]*([ ]{4}\\w+.*\\n[ ]*)*(\"\"\"|''')",
-					"(class \\w+\\(.*\\):\\n[ ]*\"\"\".*\"\"\"\\n)([ ]*\\w)",
-					"'''(.*)'''",
-					"print",
-					"1002",
-					"(class \\w+\\(.*\\):\\n[ ]*\"\"\".*\"\"\"\\n)([ ]*\\w)",
-					"(class \\w+\\(.*\\):\\n[ ]*\"\"\".*\"\"\"\\n[ ]*)(\\w)",
-					"(class \\w+\\(.*\\):\\n[ ]*\"\"\".*\"\"\"\\n[ ]*\\w",
-					"([ ]*)#(\\w)",
-					"'''(.*)'''",
-					"'''(\\w+)'''",
-					"(\"\"\"\\w+\"\"\")(\\n[ ]*\\w+)"
-				],
-				"highlight": false,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"oecs",
-					"oebbt",
-					"**data",
-					"# \\1",
-					"bbtser1",
-					"# \\1",
-					"\"\"\"\\1\"\"\"",
-					"\"\"\"\\w\"\"\"",
-					"# \\1",
-					", \\1",
-					"_loop",
-					"\\1,",
-					", \\1",
-					"# \\1",
-					"\\1\\2\\3",
-					"\\1\\n\\2",
-					"\"\"\"\\1\"\"\"",
-					"\\1\\n\\2",
-					"\\1# \\2",
-					"\"\"\"\\1\"\"\"\\n",
-					"\"\"\"\\1\"\"\"",
-					"\\1\\n\\2",
-					"\"\"\"\\1\"\"\""
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": false
-			},
-			"incremental_find":
-			{
-				"height": 27.0
-			},
-			"input":
-			{
-				"height": 36.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 0.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.unsaved_changes":
-			{
-				"height": 579.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 50.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"",
-						"D:\\Program Files\\Sublime Text 3\\projects\\os-sas.sublime-project"
-					]
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": false,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 296.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 640.0
-	},
-	"windows":
-	[
 		{
 			"auto_complete":
 			{
@@ -504,18 +37,6 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/D/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 214,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
@@ -559,7 +80,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 400.0
+				"width": 392.0
 			},
 			"console":
 			{
@@ -579,33 +100,24 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/D/Users/huhai/Codes/bbtv5",
-				"/D/Users/huhai/Codes/bbtv5/apps",
-				"/D/Users/huhai/Codes/bbtv5/apps/base",
-				"/D/Users/huhai/Codes/bbtv5/apps/school",
-				"/D/Users/huhai/Codes/bbtv5/doc",
-				"/D/Users/huhai/Codes/bbtv5/doc/source",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/api",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/static",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/utils",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/topics",
-				"/D/Users/huhai/Codes/bbtv5/utils"
-			],
 			"file_history":
 			[
-				"/D/Users/huhai/Codes/bbtv5/apps/base/apps.py",
+				"/D/Users/huhai/Desktop/asdfa.html",
+				"/D/Program Files/Sublime Text 3/Data/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+				"/D/Program Files/Sublime Text 3/Data/.gitmodules",
+				"/D/Program Files/Sublime Text 3/Data/Packages/User/HTMLBeautify.sublime-settings",
+				"/D/Users/huhai/Codes/bbtv5/doc/build/html/_static/underscore-1.3.1.js",
+				"/D/Program Files/Sublime Text 3/Data/Packages/JsValidate/JsValidate.sublime-settings",
+				"/D/Users/huhai/Codes/bbtv5/apps/base/install.py",
+				"/D/Program Files/Sublime Text 3/Data/Packages/JsValidate/Default.sublime-keymap",
 				"/D/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
+				"/D/Users/huhai/Codes/bbtv5/apps/base/apps.py",
 				"/C/Users/huhai/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
 				"/C/Users/huhai/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/C/Users/huhai/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 				"/D/Users/huhai/Codes/bbtv5/doc/source/topics/install.rst",
 				"/D/Users/huhai/envs/sas/Lib/site-packages/django/forms/forms.py",
 				"/D/Users/huhai/Codes/bbtv5/apps/base/forms.py",
-				"/D/Users/huhai/Codes/bbtv5/apps/base/install.py",
 				"/D/Users/huhai/Codes/bbtv5/apps/base/urls.py",
 				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/utils/install.activate.data.post.json",
 				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/utils/install.activate.post.json",
@@ -717,14 +229,560 @@
 				"/D/Users/huhai/Codes/bbtv5/utils/paginator.py",
 				"/D/Users/huhai/Codes/bbtv5/doc/source/api/author/auth.rst",
 				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/author/views.UserView.put.json",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/author/views.UserView.post.json",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/author/views.UserView.get.json",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/author/views.UserView.get.details.json",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/api/author/index.rst",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/topics/tutorials.rst",
-				"/D/Users/huhai/Codes/bbtv5/deploy/deplpy.sh",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/conf.py",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/api/system/term.rst"
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/author/views.UserView.post.json"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 133.0,
+				"where_history":
+				[
+					"<project>",
+					"+*.py",
+					"*.py",
+					"*.rst",
+					"*.py",
+					"-*.json,-*.sql,-*.log,+*.py",
+					"D:\\Users\\huhai\\Codes\\banbantong-dev,-*.json,-*.sql,-*.log",
+					"D:\\Users\\huhai\\Codes\\banbantong-dev,-*.json,-*.sql,-*.log,+*.py",
+					"D:\\Users\\huhai\\Codes\\banbantong-dev,-*.json,-*.sql,-*.log",
+					"D:\\Users\\huhai\\Codes\\banbantong-dev,-*.json,-*.sql",
+					"D:\\Users\\huhai\\Codes\\banbantong-dev,-*.json",
+					"D:\\Users\\huhai\\Codes\\banbantong-dev",
+					"*.js,D:\\Users\\huhai\\Codes\\banbantong-dev",
+					"*.js",
+					"*.py"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"\",\n",
+					"\"\n",
+					".com",
+					"u\"",
+					"Key",
+					"'",
+					"host",
+					"conn",
+					"apps",
+					"@base.check_apps_ready",
+					"@check_apps_ready",
+					"@check_installed",
+					"functools.partial",
+					"Integer",
+					"URLField",
+					"default_validators",
+					"GenericIPAddressField",
+					"IPAddressField",
+					"field_order",
+					"BaseModelForm",
+					"field_order",
+					"save",
+					"county",
+					"tree",
+					"name                 string      是       设置项",
+					"login",
+					"views.",
+					"/notifications",
+					"/machinelogs",
+					"/coursewares",
+					"/clts",
+					"/system/grades",
+					"/system/classes",
+					"FRONT_DIR",
+					"created_at           string      是       创建时间",
+					"**后端回应参数**      ",
+					"records              ",
+					"id                   ",
+					"record               ",
+					"obj                  ",
+					"{obj_id}             ",
+					"**URL**              ",
+					"**请求方式**         ",
+					"**前端请求参数**     **类型**    **必需** **说明**",
+					"**后端回应参数**     **类型**    **必需** **说明**",
+					"-------------------- -----------------------------------------------------------",
+					"-------------------- ----------- -------- --------------------------------------",
+					"==================== =========== ======== ======================================",
+					"-------------------- ----------- -------- --------------------------------------",
+					"==================== =========== ======== ======================================",
+					"/curriculumschedules",
+					"school/LessonPeriodView",
+					"views.LessonPeriodView",
+					"==================== =========== ================== ============================",
+					"return {'user'",
+					"\"",
+					"is_staff             bool        是       是否员工",
+					"full_name",
+					"'action': action",
+					"get_action(action_params)",
+					"user_permissions     list        是       权限(可为空)",
+					"==================== =========== ================== ============================",
+					".. literalinclude:: /static/json/apps.author.",
+					".. literalinclude:: /static/json/apps.base.",
+					".. literalinclude:: /static/json/views.",
+					".. literalinclude:: /static/json/apps.school.",
+					"user_permissions     list        是       权限",
+					"permissions         list        是       权限",
+					"groups               list        是       组",
+					"${1: title}",
+					"${3: apps.ViewName}",
+					"URI: id",
+					"${4: object_id}",
+					"${2:/urls} /",
+					"${2: / urls}",
+					"/ static/json /",
+					"${2: / urls} / ",
+					"${5: string}",
+					"**后端回应参数** **类型** **必需** **说明**",
+					"**前端请求参数** **类型** **必需** **说明**",
+					"- ------------------- ----------- -------- --------------------------------------",
+					"-------------------- ----------- -------- --------------------------------------",
+					"- ------------------- -----------------------------------------------------------",
+					"================== ====== ====== = ================== ================== ====== == ==",
+					"**后端回应参数 **",
+					"**说明 **",
+					"**必需 **",
+					"**类型 **",
+					"**前端请求参数 **",
+					"**请求方式 **",
+					"**URL **",
+					"====== ====== ======",
+					"== == ==",
+					"id                   string",
+					"4",
+					"5",
+					"6",
+					"OBJ_ID",
+					"apps.ViewName",
+					"VIEW",
+					"apps.ViewName",
+					"/urls",
+					"school.views.GradeView",
+					"Grade-dXc4du-92e4Qu",
+					"/system/grades",
+					"banbantong",
+					"quantal",
+					"/system/lessons",
+					"年级",
+					"Grade-dXc4du-92e4Qu",
+					"views.Grade",
+					"/system/grades",
+					"shuxue",
+					"base.views.Lesson",
+					"/system/lessons",
+					"register-enable",
+					"views.LessonType",
+					"/system/lesson-types",
+					"system/lesson-types",
+					"views.Setting",
+					"节点ID",
+					"节点对象",
+					"/system/lessontypes",
+					"/system/settings",
+					"dXc4du",
+					"apps.base.views.Node",
+					"私有配置",
+					"/system/nodes"
+				],
+				"highlight": false,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					".. literalinclude:: /static/json/apps/author/",
+					".. literalinclude:: /static/json/apps/base/",
+					".. literalinclude:: /static/json/apps/school/views.",
+					".. literalinclude:: /static/json/",
+					"==================",
+					"======",
+					"\\1\\n",
+					"gu = {'http_method_names': ['get', 'put']}",
+					"as_view(**gu), name='gu",
+					".as_view(**gu), name='gu",
+					"gud = {'http_method_names': ['get', 'put', 'delete']}",
+					"as_view(**gud), name='gud",
+					"data_required=False, action=",
+					"@decorator.ajax(action",
+					"act={'obj': '\\1'}",
+					"@decorator.ajax\\(act",
+					"('Create', '\\1')",
+					"('Update', '\\1')",
+					"('Delete', '\\1')",
+					"('Update', '\\1')",
+					"('Create', '\\1')",
+					"\\('Create', '\\1'\\)",
+					"('Create', '\\1')",
+					"@decorator.ajax(",
+					"base.SyncModel",
+					"oecs",
+					"oebbt",
+					"**data",
+					"# \\1",
+					"bbtser1",
+					"# \\1",
+					"\"\"\"\\1\"\"\"",
+					"\"\"\"\\w\"\"\"",
+					"# \\1",
+					", \\1",
+					"_loop",
+					"\\1,",
+					", \\1",
+					"# \\1",
+					"\\1\\2\\3",
+					"\\1\\n\\2",
+					"\"\"\"\\1\"\"\"",
+					"\\1\\n\\2",
+					"\\1# \\2",
+					"\"\"\"\\1\"\"\"\\n",
+					"\"\"\"\\1\"\"\"",
+					"\\1\\n\\2",
+					"\"\"\"\\1\"\"\""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 55.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 579.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"D:\\Program Files\\Sublime Text 3\\projects\\oecloud.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 294.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"dju",
+						"dju\tdjango-urls-code"
+					],
+					[
+						"do",
+						"doc\trst-doc-sample"
+					],
+					[
+						"uni",
+						"unique_together"
+					],
+					[
+						"djf",
+						"djmodelform\tdjango-modelform"
+					],
+					[
+						"MODEL",
+						"Model_full\tModel (full)"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "HTML",
+					"settings":
+					{
+						"buffer_size": 4,
+						"line_ending": "Windows",
+						"name": "HTML"
+					}
+				},
+				{
+					"file": "/D/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 283,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "{\n\t// A list of URLs that each contain a JSON file with a list of repositories.\n\t// The repositories from these channels are placed in order after the\n\t// repositories from the \"repositories\" setting\n\t\"channels\": [\n\t\t\"https://packagecontrol.io/channel_v3.json\"\n\t],\n\n\t// A list of URLs that contain a packages JSON file. These repositories\n\t// are placed in order before repositories from the \"channels\"\n\t// setting\n\t\"repositories\": [],\n\n\t// A list of packages to install pre-release versions for. Versions\n\t// under 1.0.0 are not considered pre-release, only those using the SemVer\n\t// -prerelease suffixes will be ignored if the package is not in this\n\t// list.\n\t\"install_prereleases\": [],\n\n\t// If debugging information for HTTP/HTTPS connections should be printed\n\t// to the Sublime Text console\n\t\"debug\": false,\n\n\t// This helps solve naming issues where a repository it not named the\n\t// same as the package should be. This is primarily only useful for\n\t// GitHub and BitBucket repositories. This mapping will override the\n\t// mapping that is retrieved from the repository channels.\n\t\"package_name_map\": {},\n\n\t// If package install, upgrade and removal info should be submitted to\n\t// the channel for aggregated statistics\n\t\"submit_usage\": true,\n\n\t// The URL to post install, upgrade and removal notices to\n\t\"submit_url\": \"https://packagecontrol.io/submit\",\n\n\t// If packages should be automatically upgraded when ST starts\n\t\"auto_upgrade\": true,\n\n\t// If missing packages should be automatically installed when ST starts\n\t\"install_missing\": true,\n\n\t// If a package was installed by Package Control (has a\n\t// package-metadata.json file) but is not in installed_packages, remove it\n\t// based upon the assumption that it was removed on another machine and\n\t// the Package Control.sublime-settings file was synced to this machine.\n\t\"remove_orphaned\": true,\n\n\t// The minimum frequency in hours in which to check for automatic upgrades,\n\t// setting this to 0 will always check for automatic upgrades\n\t\"auto_upgrade_frequency\": 1,\n\n\t// Packages to not auto upgrade\n\t\"auto_upgrade_ignore\": [],\n\n\t// Timeout for downloading channels, repositories and packages. Doesn't\n\t// have an effect on Windows due to a bug in WinINet.\n\t\"timeout\": 30,\n\n\t// The number of seconds to cache repository and package info for\n\t\"cache_length\": 300,\n\n\t// An HTTP proxy server to use for requests. Not normally used on Windows\n\t// since the system proxy configuration is utilized via WinINet. However,\n\t// if WinINet is not working properly, this will be used by the Urllib\n\t// downloader, which acts as a fallback.\n\t\"http_proxy\": \"\",\n\t// An HTTPS proxy server to use for requests - this will inherit from\n\t// http_proxy if it is set to \"\" or null and http_proxy has a value. You\n\t// can set this to false to prevent inheriting from http_proxy. Not\n\t// normally used on Windows since the system proxy configuration is\n\t// utilized via WinINet. However, if WinINet is not working properly, this\n\t// will be used by the Urllib downloader, which acts as a fallback.\n\t\"https_proxy\": \"\",\n\n\t// Username and password for both http_proxy and https_proxy. May be used\n\t// with WinINet to set credentials for system-level proxy config.\n\t\"proxy_username\": \"\",\n\t\"proxy_password\": \"\",\n\n\t// If HTTP responses should be cached to disk\n\t\"http_cache\": true,\n\n\t// Number of seconds to cache HTTP responses for, defaults to one week\n\t\"http_cache_length\": 604800,\n\n\t// User agent for HTTP requests. If \"%s\" is present, will be replaced\n\t// with the current version.\n\t\"user_agent\": \"Package Control v%s\",\n\n\t// A list of package names to ignore when performing operations. This will\n\t// only affect packages that appear to be a git or hg repository, but will\n\t// be especially useful for package developers who manually deal with the\n\t// repository and don't want Package Control touching it.\n\t//\n\t// It can help if trying to list packages to install hangs, possibly due\n\t// to an interactive prompt.\n\t//\n\t// The setting can also be set to the boolean true to ignore all git and hg\n\t// repositories, no matter what the name.\n\t\"ignore_vcs_packages\": [],\n\n\t// Custom path(s) to \"git\" binary for when it can't be automatically\n\t// found on the system and a package includes a .git metadata directory.\n\t// Supports more than one path to allow users to sync settings across\n\t// operating systems.\n\t\"git_binary\": [],\n\n\t// This should NOT contain the name of the remote or branch - that will\n\t// be automatically determined.\n\t\"git_update_command\": [\"pull\", \"--ff\", \"--commit\"],\n\n\t// Custom path(s) to \"hg\" binary for when it can't be automatically\n\t// found on the system and a package includes a .hg metadata directory.\n\t// Supports more than one path to allow users to sync settings across\n\t// operating systems.\n\t\"hg_binary\": [],\n\n\t// For HG repositories, be sure to use \"default\" as the remote URL.\n\t// This is the default behavior when cloning an HG repo.\n\t\"hg_update_command\": [\"pull\", \"--update\"],\n\n\t// Additional packages to ignore when listing unmanaged packages.\n\t\"unmanaged_packages_ignore\": [],\n\n\t// The downloader backends that should be used for HTTP(S) requests, split\n\t// by operating system to allow for configuration to be shared.\n\t//\n\t// Valid options include: \"urllib\", \"curl\", \"wget\", (Windows-only) \"wininet\"\n\t//\n\t// This setting allows Windows users to bypass wininet and use urllib\n\t// instead if they machine or network presents trouble to wininet. Some\n\t// OS X and Linux users have also reported better luck with certain proxies\n\t// using curl or wget instead of urllib.\n\t//\n\t// The \"curl\" and \"wget\" options require the command line \"curl\" or \"wget\"\n\t// program installed and present in the PATH.\n\t\"downloader_precedence\": {\n\t\t\"windows\": [\"wininet\"],\n\t\t\"osx\": [\"urllib\"],\n\t\t\"linux\": [\"urllib\", \"curl\", \"wget\"]\n\t},\n\n\t// Directories to ignore when creating a package\n\t\"dirs_to_ignore\": [\n\t\t\".hg\", \".git\", \".svn\", \"_darcs\", \"CVS\"\n\t],\n\n\t// Files to ignore when creating a package\n\t\"files_to_ignore\": [\n\t\t\"*.pyc\", \".hgignore\", \".gitignore\", \".bzrignore\",\n\t\t\"*.sublime-project\", \"*.sublime-workspace\", \"*.tmTheme.cache\"\n\t],\n\n\t// Files to include, even if they match a pattern in files_to_ignore\n\t\"files_to_include\": [],\n\n\t// When a package is created, copy it to this folder - defaults to Desktop\n\t\"package_destination\": \"\",\n\n\t// A way to create different packaging profiles for different types of\n\t// package releases, such as for different platforms or binary-only\n\t// releases.\n\t//\n\t// The key of the object will be the profile name and a list of them will\n\t// be presenting when running the \"Create Package File\" command. The\n\t// profile \"Default\" will use the top-level version on the following\n\t// settings:\n\t//\n\t// - \"dirs_to_ignore\"\n\t// - \"files_to_ignore\"\n\t// - \"files_to_include\"\n\t// - \"package_destination\"\n\t//\n\t// If a profile does not include one of those three setting, it will fall\n\t// back to the top-level settings.\n\t\"package_profiles\": {\n\t\t\"Binaries Only\": {\n\t\t\t// Exclude all .py files, but consequently include all .pyc files\n\t\t\t\"files_to_ignore\": [\n\t\t\t\t\"*.py\", \".hgignore\", \".gitignore\", \".bzrignore\",\n\t\t\t\t\"*.sublime-project\", \"*.sublime-workspace\", \"*.tmTheme.cache\"\n\t\t\t],\n\n\t\t\t// Include __init__.py so Sublime Text will load the package\n\t\t\t\"files_to_include\": [\n\t\t\t\t\"__init__.py\"\n\t\t\t]\n\t\t}\n\t},\n\n\t// Enable the ability to run the tests - this is only for development\n\t\"enable_tests\": false\n}\n",
+					"file": "/D/Program Files/Sublime Text 3/Data/Packages/Package Control/Package Control.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 7379,
+						"line_ending": "Windows",
+						"read_only": true,
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Package",
+						"Package Control: Install Package"
+					],
+					[
+						"package contro",
+						"Package Control: Install Package"
+					],
+					[
+						"config",
+						"Code Folding: Fold Tag Attributes"
+					],
+					[
+						"generic",
+						"Package Control: Create Binary Package File"
+					],
+					[
+						"Package Control",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 432.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"%appdata%",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/Users/huhai/Codes/bbtv5",
+				"/D/Users/huhai/Codes/bbtv5/apps"
+			],
+			"file_history":
+			[
+				"/D/Program Files/Sublime Text 3/Data/Cache/Default/Startup.cache",
+				"/D/Users/huhai/Desktop/asdfa.html",
+				"/D/Program Files/Sublime Text 3/Data/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+				"/D/Program Files/Sublime Text 3/Data/.gitmodules",
+				"/D/Program Files/Sublime Text 3/Data/Packages/User/HTMLBeautify.sublime-settings",
+				"/D/Users/huhai/Codes/bbtv5/doc/build/html/_static/underscore-1.3.1.js",
+				"/D/Program Files/Sublime Text 3/Data/Packages/JsValidate/JsValidate.sublime-settings",
+				"/D/Users/huhai/Codes/bbtv5/apps/base/install.py",
+				"/D/Program Files/Sublime Text 3/Data/Packages/JsValidate/Default.sublime-keymap",
+				"/D/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
+				"/D/Users/huhai/Codes/bbtv5/apps/base/apps.py",
+				"/C/Users/huhai/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/huhai/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/huhai/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/topics/install.rst",
+				"/D/Users/huhai/envs/sas/Lib/site-packages/django/forms/forms.py",
+				"/D/Users/huhai/Codes/bbtv5/apps/base/forms.py",
+				"/D/Users/huhai/Codes/bbtv5/apps/base/urls.py",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/utils/install.activate.data.post.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/utils/install.activate.post.json",
+				"/C/Users/huhai/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+				"/D/Users/huhai/Codes/bbtv5/utils/decorator.py",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/utils/install.verify_key.post.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/utils/install.verify_key.failed.post.json",
+				"/D/Users/huhai/Codes/bbtv5/apps/base/models.py",
+				"/D/Users/huhai/Codes/bbtv5/apps/school/models.py",
+				"/D/Users/huhai/envs/sas/Lib/site-packages/requests/exceptions.py",
+				"/D/Users/huhai/Codes/bbtv5/utils/http.py",
+				"/D/Users/huhai/Codes/bbtv5/apps/base/api.py",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/system/index.rst",
+				"/D/Users/huhai/envs/sas/Lib/site-packages/django/db/models/fields/__init__.py",
+				"/D/Users/huhai/envs/sas/Lib/site-packages/django/forms/fields.py",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/commons.rst",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/topics/index.rst",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/index.rst",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/system/install.rst",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/base/views.install.groups.root.get.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/base/views.install.groups.get.json",
+				"/D/Users/huhai/Codes/bbtv5/apps/base/admin.py",
+				"/D/Users/huhai/Codes/oe-sas/requirements.txt",
+				"/D/Users/huhai/envs/sas/Lib/site-packages/django/core/validators.py",
+				"/D/Users/huhai/envs/sas/Lib/site-packages/django/forms/models.py",
+				"/D/Users/huhai/envs/sas/Lib/site-packages/django/contrib/auth/forms.py",
+				"/C/Users/huhai/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/rst-doc-sample-code.sublime-snippet",
+				"/C/Users/huhai/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/rst-doc-sample.sublime-snippet",
+				"/D/Users/huhai/envs/sas/Lib/site-packages/django/contrib/auth/models.py",
+				"/D/Users/huhai/Codes/bbtv5/apps/base/base.py",
+				"/D/Users/huhai/Codes/bbtv5/utils/middleware.py",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/school/index.rst",
+				"/D/Users/huhai/Codes/bbtv5/utils/db.py",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/utils/http.rst",
+				"/D/Users/huhai/envs/sas/Lib/site-packages/django/http/response.py",
+				"/D/Users/huhai/envs/sas/Lib/site-packages/django/conf/urls/__init__.py",
+				"/D/Users/huhai/Codes/bbtv5/utils/tree.py",
+				"/D/Users/huhai/envs/sas/Lib/site-packages/django/utils/tree.py",
+				"/D/Users/huhai/Codes/bbtv5/urls.py",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/system/setting.rst",
+				"/D/Users/huhai/Codes/bbtv5/settings.py",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/base/views.SettingView.put.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/base/views.SettingView.post.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/base/views.SettingView.get.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/base/views.SettingView.get.details.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/school/class.rst",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/school/notification.rst",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/school/machinelog.rst",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/school/grade.rst",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/school/courseware.rst",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/school/classlessonteacher.rst",
+				"/D/Users/huhai/Codes/bbtv5/apps/school/urls.py",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/school/loginlogscreenshot.rst",
+				"/D/Users/huhai/Codes/bbtv5/apps/__init__.py",
+				"/D/Users/huhai/Codes/bbtv5/local_settings.py.sample",
+				"/D/Users/huhai/Codes/bbtv5-front/templates/index.html",
+				"/D/Users/huhai/Codes/bbtv5/local_settings.py",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.LoginLogScreenshotView.get.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.LoginLogScreenshotView.get.details.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.LoginLogScreenshotView.put.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.LoginLogScreenshotView.post.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/school/teacherloginlog.rst",
+				"/D/Users/huhai/Codes/bbtv5/apps/base/management/commands/gen_doc.py",
+				"/D/Users/huhai/Codes/bbtv5/apps/school/forms.py",
+				"/D/Users/huhai/Codes/bbtv5/apps/school/admin.py",
+				"/D/Users/huhai/Codes/bbtv5/apps/school/views.py",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.TeacherLoginLogView.get.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.TeacherLoginLogView.put.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.TeacherLoginLogView.post.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.TeacherLoginLogView.get.details.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/school/curriculumschedule.rst",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/school/teacher.rst",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/school/lessonperiod.rst",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.CurriculumScheduleView.get.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.CurriculumScheduleView.get.details.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.CurriculumScheduleView.put.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.CurriculumScheduleView.post.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.ClassLessonTeacherView.get.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.ClassLessonTeacherView.put.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.ClassLessonTeacherView.post.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.ClassLessonTeacherView.get.details.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.CourseWareView.get.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.CourseWareView.get.details.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.CourseWareView.put.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.CourseWareView.post.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.MachineLogView.get.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.MachineLogView.post.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.MachineLogView.put.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.MachineLogView.get.details.json",
+				"/D/Users/huhai/Codes/bbtv5/apps/author/forms.py",
+				"/D/Users/huhai/Codes/bbtv5/apps/author/views.py",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.NotificationView.put.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.NotificationView.post.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.NotificationView.get.details.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.NotificationView.get.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.LessonPeriodView.get.details.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.TeacherView.get.details.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.TeacherView.get.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.LessonPeriodView.get.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.LessonPeriodView.post.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.LessonPeriodView.put.json",
+				"/D/Users/huhai/envs/sas/Lib/site-packages/django/core/management/templates.py",
+				"/D/Users/huhai/envs/sas/Lib/site-packages/django/core/management/commands/startapp.py",
+				"/D/Users/huhai/envs/sas/Lib/site-packages/django/core/management/base.py",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.TeacherView.put.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.TeacherView.post.json",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/utils/paginate.rst",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/author/user.rst",
+				"/D/Users/huhai/Codes/bbtv5/utils/paginator.py",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/api/author/auth.rst",
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/author/views.UserView.put.json"
 			],
 			"find":
 			{
@@ -955,19 +1013,76 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/D/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 214,
+								"buffer_size": 4,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										182,
-										182
+										4,
+										4
+									]
+								],
+								"settings":
+								{
+									"auto_name": "HTML",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 283,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										87,
+										87
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/Program Files/Sublime Text 3/Data/Packages/Package Control/Package Control.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7379,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										231,
+										231
 									]
 								],
 								"settings":
@@ -978,7 +1093,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -1017,7 +1132,7 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 124.0
+				"height": 55.0
 			},
 			"output.find_results":
 			{
