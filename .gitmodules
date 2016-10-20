@@ -20,4 +20,6 @@
 [submodule "Packages/sublime-jsvalidate"]
 	path = Packages/sublime-jsvalidate
 	url = https://github.com/duereg/sublime-jsvalidate.git
-
+[submodule "Packages/HTMLBeautify"]
+	path = Packages/HTMLBeautify
+	url = https://github.com/rareyman/HTMLBeautify.git
