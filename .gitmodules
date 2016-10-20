@@ -8,3 +8,6 @@
 [submodule "Packages/Flake8Lint"]
 	path = Packages/Flake8Lint
 	url = https://github.com/dreadatour/Flake8Lint.git
+[submodule "Packages/CTags"]
+	path = Packages/CTags
+	url = https://github.com/SublimeText/CTags.git

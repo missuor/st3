@@ -3,7 +3,7 @@
 	[
 	],
 	"last_version": 3126,
-	"last_window_id": 4,
+	"last_window_id": 5,
 	"log_indexing": false,
 	"settings":
 	{
@@ -35,7 +35,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 432.0
+				"width": 400.0
 			},
 			"console":
 			{
@@ -56,6 +56,7 @@
 			},
 			"file_history":
 			[
+				"/D/Program Files/Sublime Text 3/Data/Packages/User/Localization.sublime-settings",
 				"/D/Program Files/Sublime Text 3/Data/Local/License.sublime_license",
 				"/D/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
 				"/D/Program Files/Sublime Text 3/Data/Packages/Package Control/Package Control.sublime-settings"
@@ -159,26 +160,6 @@
 			},
 			"buffers":
 			[
-				{
-					"contents": "adsfafaGeneric Config",
-					"file": "/D/Users/huhai/Desktop/asdfasdf.conf",
-					"file_size": 7,
-					"file_write_time": 131214085937467790,
-					"settings":
-					{
-						"buffer_size": 21,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 176,
-						"line_ending": "Unix"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -221,9 +202,16 @@
 			},
 			"file_history":
 			[
+				"/D/Users/huhai/Codes/bbtv5/doc/build/html/.buildinfo",
+				"/D/Users/huhai/Codes/bbtv5/objects.inv",
+				"/D/Program Files/Sublime Text 3/Data/Packages/User/Flake8Lint.sublime-settings",
+				"/D/Program Files/Sublime Text 3/Data/Packages/User/pep8_autoformat.sublime-settings",
+				"/D/Users/huhai/Codes/bbtv5/.nojekyll",
+				"/D/Users/huhai/Desktop/asdfasdf.conf",
+				"/D/Program Files/Sublime Text 3/Data/.gitmodules",
+				"/D/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
 				"/D/Program Files/Sublime Text 3/Data/Packages/User/Localization.sublime-settings",
 				"/D/Program Files/Sublime Text 3/Data/Local/License.sublime_license",
-				"/D/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
 				"/D/Program Files/Sublime Text 3/Data/Packages/Package Control/Package Control.sublime-settings"
 			],
 			"find":
@@ -259,66 +247,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/D/Users/huhai/Desktop/asdfasdf.conf",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 21,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										21,
-										21
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/RestructuredText/reStructuredText.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/Program Files/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 176,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										176,
-										176
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
 					]
 				}
 			],
