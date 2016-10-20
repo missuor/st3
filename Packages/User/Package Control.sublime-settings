@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"http://127.0.0.1:8000/static/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Package Control"
+	]
+}

@@ -1,0 +1,4 @@
+[submodule "Packages/ChineseLocalization"]
+	path = Packages/ChineseLocalization
+	url = https://github.com/rexdf/ChineseLocalization.git
+	branch = st3
