@@ -17,3 +17,6 @@
 [submodule "Packages/Modific"]
 	path = Packages/Modific
 	url = https://github.com/gornostal/Modific.git
+[submodule "Packages/sublime-jsvalidate"]
+	path = Packages/sublime-jsvalidate
+	url = https://github.com/duereg/sublime-jsvalidate.git
