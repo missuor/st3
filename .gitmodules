@@ -20,3 +20,6 @@
 [submodule "Packages/sublime-jsvalidate"]
 	path = Packages/sublime-jsvalidate
 	url = https://github.com/duereg/sublime-jsvalidate.git
+[submodule "Packages/SASS-Build"]
+	path = Packages/SASS-Build
+	url = https://github.com/jaumefontal/SASS-Build-SublimeText2.git
