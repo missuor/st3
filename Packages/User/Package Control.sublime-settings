@@ -9,12 +9,14 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"ChineseLocalization",
 		"CTags",
 		"Flake8Lint",
 		"HTML-CSS-JS Prettify",
 		"Package Control",
 		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
 		"Sublime-GenericConfig"
 	]
 }
