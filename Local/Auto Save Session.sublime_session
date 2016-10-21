@@ -567,6 +567,15 @@
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
+				},
+				{
+					"file": "/D/Program Files/Sublime Text 3/Data/.git/config",
+					"settings":
+					{
+						"buffer_size": 1097,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
 				}
 			],
 			"build_system": "",
@@ -617,7 +626,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 400.0
+				"width": 432.0
 			},
 			"console":
 			{
@@ -998,7 +1007,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -1021,6 +1030,35 @@
 								"settings":
 								{
 									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Program Files/Sublime Text 3/Data/.git/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1097,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1097,
+										1097
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Sublime-GenericConfig/GenericConfig.sublime-syntax",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
