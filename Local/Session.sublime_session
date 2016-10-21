@@ -559,6 +559,31 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/D/Program Files/Sublime Text 3/Data/.gitmodules",
+					"settings":
+					{
+						"buffer_size": 1130,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/Program Files/Sublime Text 3/Data/.git/config",
+					"settings":
+					{
+						"buffer_size": 1198,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/Users/huhai/Codes/bbtv5-front/app.js",
+					"settings":
+					{
+						"buffer_size": 2594,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -573,7 +598,7 @@
 				[
 					[
 						"Package Control: ",
-						"Package Control: Install Package"
+						"Package Control: List Packages"
 					],
 					[
 						"Package Control: install Package",
@@ -608,7 +633,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 400.0
+				"width": 432.0
 			},
 			"console":
 			{
@@ -634,6 +659,8 @@
 			],
 			"file_history":
 			[
+				"/D/Program Files/Sublime Text 3/Data/Packages/AdvancedNewFile/README.md",
+				"/D/Program Files/Sublime Text 3/Data/Packages/Sublime-AdvancedNewFile/README.md",
 				"/D/Program Files/Sublime Text 3/Data/Packages/PyV8/win64-p3/config.json",
 				"/D/Program Files/Sublime Text 3/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
 				"/D/Users/huhai/Codes/bbtv5/apps/author/urls.py",
@@ -759,9 +786,7 @@
 				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.LessonPeriodView.get.details.json",
 				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.TeacherView.get.details.json",
 				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.TeacherView.get.json",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.LessonPeriodView.get.json",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.LessonPeriodView.post.json",
-				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.LessonPeriodView.put.json"
+				"/D/Users/huhai/Codes/bbtv5/doc/source/static/json/apps/school/views.LessonPeriodView.get.json"
 			],
 			"find":
 			{
@@ -989,8 +1014,95 @@
 			"groups":
 			[
 				{
+					"selected": 2,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/D/Program Files/Sublime Text 3/Data/.gitmodules",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1130,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										996,
+										996
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Program Files/Sublime Text 3/Data/.git/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1198,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1198,
+										1198
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Sublime-GenericConfig/GenericConfig.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/Users/huhai/Codes/bbtv5-front/app.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 2594,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										324,
+										324
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
