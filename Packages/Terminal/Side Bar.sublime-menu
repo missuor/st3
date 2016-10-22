@@ -1,0 +1,4 @@
+[
+    { "caption": "在此处打开命令窗口", "command": "open_terminal", "args": {"paths": []} },
+	// { "caption": "Open Terminal Here…", "command": "open_terminal", "args": {"paths": []} }
+]

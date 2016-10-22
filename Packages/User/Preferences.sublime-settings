@@ -3,6 +3,7 @@
 	"binary_file_patterns":
 	[
 		"*.css",
+		"*.dat",
 		"*.dds",
 		"*.eot",
 		"*.gif",

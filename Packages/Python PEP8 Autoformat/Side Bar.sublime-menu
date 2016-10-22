@@ -1,8 +1,11 @@
 [
-	{"caption": "-"},
-	{"caption": "Python PEP8 Autoformat",
-		"children": [
-			{ "caption": "ReFormat file", "command": "pep8_autoformat" }
-		]
-	}
+	// {"caption": "-"},
+	// {"caption": "Python PEP8 Autoformat",
+    {"caption": "Python PEP8 格式化",
+        "children": [
+            // { "caption": "ReFormat file", "command": "pep8_autoformat" }
+            { "caption": "重新格式化文件", "command": "pep8_autoformat" }
+        ]
+    }
+
 ]
