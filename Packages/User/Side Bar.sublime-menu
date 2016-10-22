@@ -12,7 +12,8 @@
         "id": "side-bar-start-separator"
     },
     {
-        "caption": "New File…",
+        // "caption": "New File…",
+        "caption": "新建文件…",
         "id": "side-bar-new-file",
         "command": "side_bar_new_file",
         "args": {
@@ -20,7 +21,8 @@
         }
     },
     {
-        "caption": "New Folder…",
+        "caption": "新建文件夹…",
+        // "caption": "New Folder…",
         "id": "side-bar-new-directory",
         "command": "side_bar_new_directory",
         "args": {
@@ -33,7 +35,8 @@
     },
 
     {
-        "caption": "Edit",
+        "caption": "编辑",
+        // "caption": "Edit",
         "id": "side-bar-edit",
         "command": "side_bar_edit",
         "args": {
@@ -41,7 +44,8 @@
         }
     },
     {
-        "caption": "Edit to Right",
+        "caption": "在右边窗口编辑",
+        // "caption": "Edit to Right",
         "id": "side-bar-edit-to-right",
         "command": "side_bar_edit_to_right",
         "args": {
@@ -49,7 +53,8 @@
         }
     },
     {
-        "caption": "Open / Run",
+        "caption": "打开 / 运行",
+        // "caption": "Open / Run",
         "id": "side-bar-open",
         "command": "side_bar_open",
         "args": {
