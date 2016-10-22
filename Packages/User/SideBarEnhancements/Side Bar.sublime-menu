@@ -293,7 +293,7 @@
                 "id": "side-bar-mass-rename-separator"
             },
             {
-                "caption": "Mass Rename Selection…", // Mass Rename Selection…
+                "caption": "目录下批量修改文件名…", // Mass Rename Selection…
                 "id": "side-bar-mass-rename",
                 "command": "side_bar_mass_rename",
                 "args": {
@@ -360,7 +360,7 @@
         "id": "side-bar-clip-copy-as",
         "children": [
             {
-                "caption": "Relative Path From View Encoded", // Relative Path From View Encoded
+                "caption": "复制文件名到剪切板(Encoded)", // Relative Path From View Encoded
                 "id": "side-bar-clip-copy-path-relative-from-view-encoded",
                 "command": "side_bar_copy_path_relative_from_view_encoded",
                 "args": {
@@ -368,7 +368,7 @@
                 }
             },
             {
-                "caption": "Relative Path From View", // Relative Path From View
+                "caption": "复制文件名到剪切板", // Relative Path From View
                 "id": "side-bar-clip-copy-path-relative-from-view",
                 "command": "side_bar_copy_path_relative_from_view",
                 "args": {
@@ -381,7 +381,7 @@
             },
 
             {
-                "caption": "Relative Path From Project Encoded", // Relative Path From Project Encoded
+                "caption": "复制项目文件路径到剪切板(Encoded)", // Relative Path From Project Encoded
                 "id": "side-bar-clip-copy-path-relative-from-project-encoded",
                 "command": "side_bar_copy_path_relative_from_project_encoded",
                 "args": {
@@ -389,7 +389,7 @@
                 }
             },
             {
-                "caption": "Relative Path From Project", // Relative Path From Project
+                "caption": "复制项目文件路径到剪切板", // Relative Path From Project
                 "id": "side-bar-clip-copy-path-relative-from-project",
                 "command": "side_bar_copy_path_relative_from_project",
                 "args": {
@@ -402,7 +402,7 @@
             },
 
             {
-                "caption": "Absolute Path From Project Encoded", // Absolute Path From Project Encoded
+                "caption": "复制项目文件绝对路径到剪切板(Encoded)", // Absolute Path From Project Encoded
                 "id": "side-bar-clip-copy-path-absolute-from-project-encoded",
                 "command": "side_bar_copy_path_absolute_from_project_encoded",
                 "args": {
@@ -410,7 +410,7 @@
                 }
             },
             {
-                "caption": "Absolute Path From Project", // Absolute Path From Project
+                "caption": "复制项目文件绝对路径到剪切板", // Absolute Path From Project
                 "id": "side-bar-clip-copy-path-absolute-from-project",
                 "command": "side_bar_copy_path_absolute_from_project",
                 "args": {
@@ -423,7 +423,7 @@
             },
 
             {
-                "caption": "Path as URI", // Path as URI
+                "caption": "统一资源标识符地址", // Path as URI
                 "id": "side-bar-clip-copy-path-encoded",
                 "command": "side_bar_copy_path_encoded",
                 "args": {
@@ -431,7 +431,7 @@
                 }
             },
             {
-                "caption": "Path", // Path
+                "caption": "复制文件路径到剪切板", // Path
                 "id": "side-bar-clip-copy-path",
                 "command": "side_bar_copy_path",
                 "args": {
@@ -444,7 +444,7 @@
             },
 
             {
-                "caption": "Name Encoded", // Name Encoded
+                "caption": "文件名(Encoded)", // Name Encoded
                 "id": "side-bar-clip-copy-name-encoded",
                 "command": "side_bar_copy_name_encoded",
                 "args": {
@@ -478,7 +478,7 @@
             },
 
             {
-                "caption": "Tag a", // Tag a
+                "caption": "复制为网页标签 <a>", // Tag a
                 "id": "side-bar-clip-copy-tag-a",
                 "command": "side_bar_copy_tag_ahref",
                 "args": {
@@ -486,7 +486,7 @@
                 }
             },
             {
-                "caption": "Tag img", // Tag img
+                "caption": "复制为网页标签 <img>", // Tag img
                 "id": "side-bar-clip-copy-tag-img",
                 "command": "side_bar_copy_tag_img",
                 "args": {
@@ -494,7 +494,7 @@
                 }
             },
             {
-                "caption": "Tag script", // Tag script
+                "caption": "复制为网页标签 <script>", // Tag script
                 "id": "side-bar-clip-copy-tag-script",
                 "command": "side_bar_copy_tag_script",
                 "args": {
@@ -502,7 +502,7 @@
                 }
             },
             {
-                "caption": "Tag style", // Tag style
+                "caption": "复制为网页标签 <style>", // Tag style
                 "id": "side-bar-clip-copy-tag-style",
                 "command": "side_bar_copy_tag_style",
                 "args": {
@@ -514,7 +514,7 @@
                 "id": "side-bar-clip-copy-tag-separator"
             },
             {
-                "caption": "Project Folders", // Project Folders
+                "caption": "项目文件夹列表", // Project Folders
                 "id": "side-bar-clip-copy-project-directories",
                 "command": "side_bar_copy_project_directories",
                 "args": {
@@ -526,7 +526,7 @@
                 "id": "side-bar-clip-copy-project-directories-separator"
             },
             {
-                "caption": "Content as UTF-8", // Content as UTF-8
+                "caption": "内容以UTF-8格式复制到剪贴板", // Content as UTF-8
                 "id": "side-bar-clip-copy-content-utf8",
                 "command": "side_bar_copy_content_utf8",
                 "args": {
@@ -534,7 +534,7 @@
                 }
             },
             {
-                "caption": "Content as Data URI", // Content as Data URI
+                "caption": "内容以Data URI格式复制到剪贴板", // Content as Data URI
                 "id": "side-bar-clip-copy-content-base-64",
                 "command": "side_bar_copy_content_base64",
                 "args": {
@@ -554,7 +554,7 @@
         }
     },
     {
-        "caption": "Paste in Parent", // Paste in Parent
+        "caption": "粘贴到上级目录", // Paste in Parent
         "id": "side-bar-clip-paste-in-parent",
         "command": "side_bar_paste",
         "args": {
@@ -599,7 +599,6 @@
         "caption": "-",
         "id": "side-bar-rename-move-separator"
     },
-
     {
         "caption": "删除", // Delete
         "id": "side-bar-delete",
@@ -620,7 +619,6 @@
         "caption": "-",
         "id": "side-bar-delete-separator"
     },
-
     {
         "caption": "刷新", // Refresh
         "id": "side-bar-refresh",
@@ -655,8 +653,8 @@
                 "id": "side-bar-project-open-file-separator"
             },
             {
-                "command": "prompt_add_folder",
                 "caption": "添加文件夹到项目…", // Add Folder to Project…
+                "command": "prompt_add_folder",
                 "mnemonic": "d"
             },
             {
