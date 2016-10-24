@@ -456,26 +456,26 @@
                 "id": "side-bar-clip-copy-name-encoded-separator"
             },
 
-            {
-                "caption": "URL", // URL
-                "id": "side-bar-clip-copy-url",
-                "command": "side_bar_copy_url",
-                "args": {
-                    "paths": []
-                }
-            },
-            {
-                "caption": "URL Decoded", // URL Decoded
-                "id": "side-bar-clip-copy-url-decoded",
-                "command": "side_bar_copy_url_decoded",
-                "args": {
-                    "paths": []
-                }
-            },
-            {
-                "caption": "-",
-                "id": "side-bar-clip-copy-url-separator"
-            },
+            // {
+            //     "caption": "URL", // URL
+            //     "id": "side-bar-clip-copy-url",
+            //     "command": "side_bar_copy_url",
+            //     "args": {
+            //         "paths": []
+            //     }
+            // },
+            // {
+            //     "caption": "URL Decoded", // URL Decoded
+            //     "id": "side-bar-clip-copy-url-decoded",
+            //     "command": "side_bar_copy_url_decoded",
+            //     "args": {
+            //         "paths": []
+            //     }
+            // },
+            // {
+            //     "caption": "-",
+            //     "id": "side-bar-clip-copy-url-separator"
+            // },
 
             {
                 "caption": "复制为网页标签 <a>", // Tag a
@@ -641,7 +641,7 @@
                 }
             },
             {
-                "caption": "Edit Preview URLs", // Edit Preview URLs
+                "caption": "编辑预览地址", // Edit Preview URLs
                 "id": "side-bar-preview-edit-urls",
                 "command": "side_bar_preview_edit_urls",
                 "args": {
@@ -662,7 +662,7 @@
                 "id": "side-bar-promote-as-project-folder-separator"
             },
             {
-                "caption": "Promote as Project Folder", // Promote as Project Folder
+                "caption": "在项目根目录创建链接", // Promote as Project Folder
                 "id": "side-bar-project-item-add",
                 "command": "side_bar_project_item_add",
                 "args": {
@@ -682,6 +682,7 @@
                 "id": "side-bar-project-item-separator"
             },
             {
+                // "caption": "Exclude From Index", // side-bar-project-item-exclude-from-index-item
                 "id": "side-bar-project-item-exclude-from-index-item",
                 "command": "side_bar_project_item_exclude_from_index",
                 "args": {
@@ -726,7 +727,7 @@
                 "id": "side-bar-project-item-separator"
             },
             {
-                "caption": "Remove Folder from Project", // Remove Folder from Project
+                "caption": "从项目中删除文件夹", // Remove Folder from Project
                 "id": "side-bar-project-item-remove-folder",
                 "command": "side_bar_project_item_remove_folder",
                 "args": {

@@ -18,7 +18,7 @@
 		"*.tga",
 		"*.ttf",
 		"*.zip",
-		".gitkeep"
+		".gitkeep",
 	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/Monokai (Flake8Lint).tmTheme",
