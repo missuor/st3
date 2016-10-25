@@ -798,6 +798,9 @@
                     { "command": "open_recent_project_or_workspace", "args": {"index": 5 } },
                     { "command": "open_recent_project_or_workspace", "args": {"index": 6 } },
                     { "command": "open_recent_project_or_workspace", "args": {"index": 7 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 8 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 9 } },
+                    { "command": "open_recent_project_or_workspace", "args": {"index": 10 } },
                     { "caption": "-" },
                     { "command": "clear_recent_workspaces", "caption": "清除项目记录" }
                 ]

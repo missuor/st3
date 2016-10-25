@@ -21,6 +21,7 @@
         "D302",  // use u""" for unicode docstring
         "D400",
         "D401", // first line should be imperative mode('Set' not 'Sets')
+        "D403", // first word of the first line should be properly capitalized
 
         "E265", // block comment should start with '# '
         "E402", // module level import not at top of file
