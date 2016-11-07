@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
++ /${1:FROM} --> /${2:TO}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>ut</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python, text.plain,text.restructuredtext,markup.heading.headline.or-term.restructuredtext</scope>
+</snippet>

@@ -1,9 +1,5 @@
 {
 	"bootstrapped": true,
-	"channels":
-	[
-		"http://127.0.0.1:8080/channel_v3.json"
-	],
 	"in_process_packages":
 	[
 	],
@@ -12,8 +8,10 @@
 		"AdvancedNewFile",
 		"ChineseLocalization",
 		"CTags",
+		"Django",
 		"Flake8Lint",
 		"HTML-CSS-JS Prettify",
+		"IMESupport",
 		"Package Control",
 		"Python PEP8 Autoformat",
 		"SideBarEnhancements",
