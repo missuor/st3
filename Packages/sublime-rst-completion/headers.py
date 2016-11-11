@@ -1,6 +1,6 @@
+import re
 import sublime
 import sublime_plugin
-import re
 from collections import namedtuple
 # py3 import compatibility. Better way to do this?
 try:
@@ -163,6 +163,7 @@ class RstHeaderTree(object):
         title = title.rstrip()
         title_lenght = len(title.lstrip())
         indent_lenght = len(title) - title_lenght
+        title_lenght += len(''.join(re.compile(u"[\u4e00-\u9fa5]+").findall(title)))
         strike = adornment[0] * (title_lenght + indent_lenght * 2)
         if force_overline or len(adornment) == 2:
             result = strike + '\n' + title + '\n' + strike + '\n'
@@ -266,6 +267,7 @@ class SmartFoldingCommand(sublime_plugin.TextCommand):
     a headline, a \t would be inserted.
 
     """
+
     def run(self, edit):
 
         cursor_pos = self.view.sel()[0].begin()
@@ -289,6 +291,7 @@ class SmartFoldingCommand(sublime_plugin.TextCommand):
 
 
 class SmartHeaderCommand(BaseBlockCommand):
+
     def run(self, edit):
         for region in self.view.sel():
             region, lines, indent = self.get_block_bounds()
