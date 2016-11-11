@@ -35,5 +35,15 @@
 
     {"keys": ["ctrl+alt+s"], "command": "docstring"},
 
-    { "keys": ["ctrl+shift+r"], "command": "pep8_autoformat" }
+    { "keys": ["ctrl+shift+r"], "command": "pep8_autoformat" },
+    { "keys": ["ctrl+="], "command": "header_change_level", "context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "text.restructuredtext" }
+        ]
+    },
+    // { "keys": ["ctrl++"], "command": "header_change_level", "context":
+    //     [
+    //         { "key": "selector", "operator": "equal", "operand": "text.restructuredtext" }
+    //     ]
+    // }
 ]
