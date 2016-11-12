@@ -1,12 +1,28 @@
-[
-    { "keys": ["ctrl+="], "command": "header_change_level", "context":
-        [
-            { "key": "selector", "operator": "equal", "operand": "text.restructuredtext" }
-        ]
-    },
-    { "keys": ["ctrl++"], "command": "header_change_level", "context":
-        [
-            { "key": "selector", "operator": "equal", "operand": "text.restructuredtext" }
-        ]
-    }
-]
+// "keys": ["ctrl+alt+b"], "command": "strongemphasis"             **ctrl+alt+b**
+// "keys": ["ctrl+alt+i"], "command": "emphasis"                   *ctrl+alt+i*
+// "keys": ["ctrl+alt+k"], "command": "literal"                    ``ctrl+alt+k``
+
+// "keys": ["ctrl+t", "enter"], "command": "table"
+// "keys": ["ctrl+t", "r"], "command": "flowtable"
+// "keys": ["ctrl+t", "down"], "command": "merge_cells_down"
+// "keys": ["ctrl+t", "up"], "command": "merge_cells_up"
+// "keys": ["ctrl+t", "right"], "command": "merge_cells_right"
+// "keys": ["ctrl+t", "left"], "command": "merge_cells_left"
+
+// "keys": ["enter"], "command": "smart_list"                      列表
+// "keys": ["shift+tab"], "command": "smart_folding","context":    折叠
+// "keys": ["ctrl++"], "command": "header_change_level"            升级标题
+// "keys": ["ctrl+keypad_plus"], "command": "header_change_level"  升级标题
+// "keys": ["ctrl+-"], "command": "header_change_level"            降级标题
+// "keys": ["ctrl+keypad_minus"], "command": "header_change_level" 降级标题
+// "keys": ["tab"], "command": "smart_header"                      标题补全
+// "keys": ["alt+shift+f"], "command": "magic_footnotes"           添加尾注
+// "keys": ["shift+up"], "command": "go_to_footnote_reference"     返回尾注引用点
+// "keys": ["shift+down"], "command": "go_to_footnote_definition"  返回尾注定义点
+// "keys": ["ctrl+shift+r"], "command": "render_rst"
+// "keys": ["alt+down"], "command": "headline_move",               跳到下一主题
+// "keys": ["alt+shift+down"], "command": "headline_move",         跳到子级主题
+// "keys": ["alt+up"], "command": "headline_move",                 跳到上一主题
+// "keys": ["alt+shift+up"], "command": "headline_move",           跳到父级主题
+// "keys": ["tab"], "command": "indent_list_item"                  子级列表
+// "keys": ["shift+tab"], "command": "indent_list_item"            父级列表

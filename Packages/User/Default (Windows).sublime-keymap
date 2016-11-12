@@ -46,4 +46,9 @@
     //         { "key": "selector", "operator": "equal", "operand": "text.restructuredtext" }
     //     ]
     // }
+    { "keys": ["alt+`"], "command": "smart_folding","context":
+        [
+            { "key": "selector", "operator": "equal", "operand": "text.restructuredtext" }
+        ]
+    }
 ]
