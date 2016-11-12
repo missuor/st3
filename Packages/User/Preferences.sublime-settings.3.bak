@@ -1,0 +1,69 @@
+{
+	"auto_complete_delay": 50,
+	"binary_file_patterns":
+	[
+		"*.css",
+		"*.dat",
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.mo",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		".gitkeep"
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Monokai (Flake8Lint).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.mo",
+		"*.db",
+		"*.sublime-workspace",
+		".tags",
+		".tags_sorted_by_file"
+	],
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_ending": "unix",
+	"margin": 2,
+	"rulers":
+	[
+		80
+	],
+	"show_tab_close_buttons": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
