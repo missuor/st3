@@ -567,7 +567,7 @@
         "id": "side-bar-clip-separator"
     },
     {
-        "caption": "复制文件夹到…", // Duplicate…
+        "caption": "复制到…", // Duplicate…
         "id": "side-bar-duplicate",
         "command": "side_bar_duplicate",
         "args": {
