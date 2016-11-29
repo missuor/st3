@@ -4,7 +4,7 @@
     "live_mode_lint_delay": 2000,
 
     "set_ruler_guide": false,
-    "pep8_max_line_length": 120,
+    "pep8_max_line_length": 180,
 
     // skip errors and warnings (e.g. ["E303", "E4", "W"])
     "ignore": [
@@ -25,7 +25,7 @@
 
         "E265", // block comment should start with '# '
         "E402", // module level import not at top of file
-        "E501", // line too long
+        // "E501", // line too long
         "E731", // do not assign a lambda expression, use a def
         "E713", // test for membership should be 'not in'
 
