@@ -49,13 +49,14 @@
 		".tags",
 		".tags_sorted_by_file"
 	],
-	"font_size": 10,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"RestructuredText"
+		"Django",
+		"RestructuredText",
+		"Vintage"
 	],
 	"line_ending": "unix",
 	"margin": 2,
