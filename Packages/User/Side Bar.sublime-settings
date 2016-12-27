@@ -9,7 +9,7 @@
 
     "hide_open_with_entries_when_there_are_no_applicable": false,
 
-    "confirm_before_deleting": true,
+    "confirm_before_deleting": false,
 
     "confirm_before_permanently_deleting": true,
 

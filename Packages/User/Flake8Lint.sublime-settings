@@ -25,7 +25,9 @@
 
         "E265", // block comment should start with '# '
         "E402", // module level import not at top of file
-        // "E501", // line too long
+        "E501", // line too long
+        "E704", // multiple statements on one line
+
         "E731", // do not assign a lambda expression, use a def
         "E713", // test for membership should be 'not in'
 
